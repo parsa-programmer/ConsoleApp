@@ -1,10 +1,12 @@
 ﻿//Mohammad Ashrafi - Reza Faizy
-Console.WriteLine("Enter first number : ");
-var a = Console.ReadLine();
+
 var firstNumber = 0;
-Console.WriteLine("Enter second number : ");
-var b = Console.ReadLine();
 var secondNumber = 0;
+
+Console.Write("Enter first number : ");
+var a = Console.ReadLine();
+Console.Write("Enter second number : ");
+var b = Console.ReadLine();
 
 int.TryParse(a,out firstNumber);
 int.TryParse(b,out secondNumber);
