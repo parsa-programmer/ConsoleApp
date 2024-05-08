@@ -1,4 +1,4 @@
-﻿//Ashrafi - Faizy
+﻿//Mohammad Ashrafi - Reza Faizy
 Console.WriteLine("Enter first number : ");
 var a = Console.ReadLine();
 var firstNumber = 0;
