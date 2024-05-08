@@ -9,10 +9,17 @@ var secondNumber = 0;
 int.TryParse(a,out firstNumber);
 int.TryParse(b,out secondNumber);
 Sum(firstNumber, secondNumber);
+Zarb(firstNumber, secondNumber);
 
 
 
 
 void Sum(int one,int two){
+    Console.Write("Jam Adad : ");
     Console.WriteLine(one + two);
+}
+void Zarb(int one, int two)
+{
+    Console.Write("Zarbe Adad : ");
+    Console.WriteLine(one * two);
 }
