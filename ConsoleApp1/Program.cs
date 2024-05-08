@@ -14,7 +14,7 @@ Sum(firstNumber, secondNumber);
 Zarb(firstNumber, secondNumber);
 
 
-
+// Mohsen Mohammadi, ALireza Khosravi
 
 void Sum(int one,int two){
     Console.Write("Jam Adad : ");
