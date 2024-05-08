@@ -15,6 +15,9 @@ Sum(firstNumber, secondNumber);
 Zarb(firstNumber, secondNumber);
 
 
+/// <summary>
+/// LALALALALALA land
+/// </summary>
 void Sum(int one,int two){
     Console.Write("Jam Adad : ");
     Console.WriteLine(one + two);
