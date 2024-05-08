@@ -1,4 +1,5 @@
-﻿//Mohammad Ashrafi - Reza Faizy
+﻿//Mohammad Ashrafi
+//Reza Faizy
 
 var firstNumber = 0;
 var secondNumber = 0;
