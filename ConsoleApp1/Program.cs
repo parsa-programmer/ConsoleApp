@@ -1,4 +1,5 @@
-﻿//Mohammad Ashrafi - Reza Faizy
+﻿//Mohammad Ashrafi
+//Reza Faizy
 
 var firstNumber = 0;
 var secondNumber = 0;
@@ -14,8 +15,6 @@ Sum(firstNumber, secondNumber);
 Zarb(firstNumber, secondNumber);
 
 
-// Mohsen Mohammadi, Alireza Khosravi
-// LALALALA land
 void Sum(int one,int two){
     Console.Write("Jam Adad : ");
     Console.WriteLine(one + two);
