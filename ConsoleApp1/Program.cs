@@ -14,8 +14,8 @@ Sum(firstNumber, secondNumber);
 Zarb(firstNumber, secondNumber);
 
 
-// Mohsen Mohammadi, ALireza Khosravi
-
+// Mohsen Mohammadi, Alireza Khosravi
+// LALALALA land
 void Sum(int one,int two){
     Console.Write("Jam Adad : ");
     Console.WriteLine(one + two);
